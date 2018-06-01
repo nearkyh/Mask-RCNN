@@ -27,7 +27,7 @@ $ pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=Pytho
 Run Demo
 ```bash
 $ python detector_demo.py {YOUR_TEST_VIDEO}
-````
+```
 
 
 

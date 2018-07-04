@@ -1,7 +1,6 @@
 # Mask-RCNN
 Implement Real-Time Semantic Segmentation with [Mask_RCNN](https://github.com/matterport/Mask_RCNN).
 
-
 ## Requirements
 - Ubuntu 16.04
 - Python 3.5
@@ -22,6 +21,11 @@ Install Dependencies
 ```bash
 $ pip install -r requirements.txt
 $ pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+```
+
+Using pre-trained weights for MS COCO
+```bash
+It is included in {detector_demo.py} that downloading the pre-trained weights for MS COCO.
 ```
 
 Run Demo

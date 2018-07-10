@@ -33,6 +33,7 @@ Run Demo
 $ python detector_demo.py {YOUR_TEST_VIDEO}
 ```
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=SJ_ri0njoHc"><img src="https://img.youtube.com/vi/SJ_ri0njoHc/0.jpg" alt="Mask RCNN COCO Object detection and segmentation
-" width="500"></a>
+  <a href="https://www.youtube.com/watch?v=SJ_ri0njoHc"><img src="https://github.com/yonghankim/Mask-RCNN/blob/master/img/demo.JPG" alt="Mask RCNN COCO Object detection and segmentation
+" width="550"></a>
 </div>
+
